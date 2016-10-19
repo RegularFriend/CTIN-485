@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 83ca8460d4d73b6488901307ef74b910
+timeCreated: 1475003017
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Cylinder001
+    100010: Goat
+    100012: //RootNode
+    100014: Horse
+    100016: HorseFrontRLegFrontHoof
+    100018: HorseFrontRLegHumerus
+    100020: HorseFrontRLegMetacarpus
+    100022: HorseFrontRLegPhalangesManus
+    100024: HorseFrontRLegPlatform
+    100026: HorseFrontRLegPlatformGizmo
+    100028: HorseFrontRLegRadius
+    100030: HorseFrontRLegScapula
+    100032: HorseJaw
+    100034: HorseLFemur
+    100036: HorseLFrontHoof
+    100038: HorseLHumerus
+    100040: HorseLLargeCannon
+    100042: HorseLMetacarpus
+    100044: HorseLPhalangesManus
+    100046: HorseLPhalanxPrima
+    100048: HorseLPlatform
+    100050: HorseLPlatform 1
+    100052: HorseLPlatformGizmo
+    100054: HorseLPlatformGizmo 1
+    100056: HorseLRadius
+    100058: HorseLRearHoof
+    100060: HorseLScapula
+    100062: HorseLTibia
+    100064: HorseNeck1
+    100066: HorseNeck2
+    100068: HorseNeck3
+    100070: HorseNeck4
+    100072: HorseNeck4Gizmo
+    100074: HorseNeck5
+    100076: HorseNeck6
+    100078: HorsePelvis
+    100080: HorsePelvisGizmo
+    100082: HorseRFemur
+    100084: HorseRibcage
+    100086: HorseRibcageGizmo
+    100088: HorseRLargeCannon
+    100090: HorseRPhalanxPrima
+    100092: HorseRPlatform
+    100094: HorseRPlatformGizmo
+    100096: HorseRRearHoof
+    100098: HorseRTibia
+    100100: HorseScull
+    100102: HorseScullGizmo
+    100104: HorseSpine1
+    100106: HorseSpine2
+    100108: HorseSpine3
+    100110: HorseSpine4
+    100112: HorseSpine5
+    100114: HorseSpine6
+    100116: HorseTail1
+    100118: HorseTail2
+    100120: Shield
+    100122: Sword
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Cylinder001
+    400010: Goat
+    400012: //RootNode
+    400014: Horse
+    400016: HorseFrontRLegFrontHoof
+    400018: HorseFrontRLegHumerus
+    400020: HorseFrontRLegMetacarpus
+    400022: HorseFrontRLegPhalangesManus
+    400024: HorseFrontRLegPlatform
+    400026: HorseFrontRLegPlatformGizmo
+    400028: HorseFrontRLegRadius
+    400030: HorseFrontRLegScapula
+    400032: HorseJaw
+    400034: HorseLFemur
+    400036: HorseLFrontHoof
+    400038: HorseLHumerus
+    400040: HorseLLargeCannon
+    400042: HorseLMetacarpus
+    400044: HorseLPhalangesManus
+    400046: HorseLPhalanxPrima
+    400048: HorseLPlatform
+    400050: HorseLPlatform 1
+    400052: HorseLPlatformGizmo
+    400054: HorseLPlatformGizmo 1
+    400056: HorseLRadius
+    400058: HorseLRearHoof
+    400060: HorseLScapula
+    400062: HorseLTibia
+    400064: HorseNeck1
+    400066: HorseNeck2
+    400068: HorseNeck3
+    400070: HorseNeck4
+    400072: HorseNeck4Gizmo
+    400074: HorseNeck5
+    400076: HorseNeck6
+    400078: HorsePelvis
+    400080: HorsePelvisGizmo
+    400082: HorseRFemur
+    400084: HorseRibcage
+    400086: HorseRibcageGizmo
+    400088: HorseRLargeCannon
+    400090: HorseRPhalanxPrima
+    400092: HorseRPlatform
+    400094: HorseRPlatformGizmo
+    400096: HorseRRearHoof
+    400098: HorseRTibia
+    400100: HorseScull
+    400102: HorseScullGizmo
+    400104: HorseSpine1
+    400106: HorseSpine2
+    400108: HorseSpine3
+    400110: HorseSpine4
+    400112: HorseSpine5
+    400114: HorseSpine6
+    400116: HorseTail1
+    400118: HorseTail2
+    400120: Shield
+    400122: Sword
+    2300000: Cylinder001
+    2300002: HorseNeck4Gizmo
+    2300004: HorsePelvisGizmo
+    2300006: HorseRibcageGizmo
+    2300008: Shield
+    2300010: Sword
+    3300000: Cylinder001
+    3300002: HorseNeck4Gizmo
+    3300004: HorsePelvisGizmo
+    3300006: HorseRibcageGizmo
+    3300008: Shield
+    3300010: Sword
+    4300000: Shield
+    4300002: Sword
+    4300004: Cylinder001
+    4300006: Goat
+    4300008: HorsePelvisGizmo
+    4300010: HorseRibcageGizmo
+    4300012: HorseNeck4Gizmo
+    7400000: GoatSoldier_Walk
+    9500000: //RootNode
+    13700000: Goat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GoatSoldier_Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Goat
+        weight: 1
+      - path: Horse
+        weight: 1
+      - path: HorseFrontRLegPlatform
+        weight: 1
+      - path: HorseFrontRLegPlatformGizmo
+        weight: 1
+      - path: HorseLPlatform
+        weight: 1
+      - path: HorseLPlatform 1
+        weight: 1
+      - path: HorseLPlatformGizmo
+        weight: 1
+      - path: HorseLPlatformGizmo 1
+        weight: 1
+      - path: HorseNeck4Gizmo
+        weight: 1
+      - path: HorsePelvis
+        weight: 1
+      - path: HorsePelvis/HorseLFemur
+        weight: 1
+      - path: HorsePelvis/HorseLFemur/HorseLTibia
+        weight: 1
+      - path: HorsePelvis/HorseLFemur/HorseLTibia/HorseLLargeCannon
+        weight: 1
+      - path: HorsePelvis/HorseLFemur/HorseLTibia/HorseLLargeCannon/HorseLPhalanxPrima
+        weight: 1
+      - path: HorsePelvis/HorseLFemur/HorseLTibia/HorseLLargeCannon/HorseLPhalanxPrima/HorseLRearHoof
+        weight: 1
+      - path: HorsePelvis/HorseRFemur
+        weight: 1
+      - path: HorsePelvis/HorseRFemur/HorseRTibia
+        weight: 1
+      - path: HorsePelvis/HorseRFemur/HorseRTibia/HorseRLargeCannon
+        weight: 1
+      - path: HorsePelvis/HorseRFemur/HorseRTibia/HorseRLargeCannon/HorseRPhalanxPrima
+        weight: 1
+      - path: HorsePelvis/HorseRFemur/HorseRTibia/HorseRLargeCannon/HorseRPhalanxPrima/HorseRRearHoof
+        weight: 1
+      - path: HorsePelvis/HorseSpine1
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus/HorseFrontRLegRadius
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus/HorseFrontRLegRadius/HorseFrontRLegMetacarpus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus/HorseFrontRLegRadius/HorseFrontRLegMetacarpus/HorseFrontRLegPhalangesManus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus/HorseFrontRLegRadius/HorseFrontRLegMetacarpus/HorseFrontRLegPhalangesManus/HorseFrontRLegFrontHoof
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseFrontRLegScapula/HorseFrontRLegHumerus/HorseFrontRLegRadius/HorseFrontRLegMetacarpus/HorseFrontRLegPhalangesManus/HorseFrontRLegFrontHoof/Sword
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus/HorseLRadius
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus/HorseLRadius/HorseLMetacarpus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus/HorseLRadius/HorseLMetacarpus/HorseLPhalangesManus
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus/HorseLRadius/HorseLMetacarpus/HorseLPhalangesManus/HorseLFrontHoof
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseLScapula/HorseLHumerus/HorseLRadius/HorseLMetacarpus/HorseLPhalangesManus/HorseLFrontHoof/Shield
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4/HorseNeck5
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4/HorseNeck5/HorseNeck6
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4/HorseNeck5/HorseNeck6/HorseScull
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4/HorseNeck5/HorseNeck6/HorseScull/Cylinder001
+        weight: 1
+      - path: HorsePelvis/HorseSpine1/HorseSpine2/HorseSpine3/HorseSpine4/HorseSpine5/HorseSpine6/HorseRibcage/HorseNeck1/HorseNeck2/HorseNeck3/HorseNeck4/HorseNeck5/HorseNeck6/HorseScull/HorseJaw
+        weight: 1
+      - path: HorsePelvis/HorseTail1
+        weight: 1
+      - path: HorsePelvis/HorseTail1/HorseTail2
+        weight: 1
+      - path: HorsePelvisGizmo
+        weight: 1
+      - path: HorseRibcageGizmo
+        weight: 1
+      - path: HorseRPlatform
+        weight: 1
+      - path: HorseRPlatformGizmo
+        weight: 1
+      - path: HorseScullGizmo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
